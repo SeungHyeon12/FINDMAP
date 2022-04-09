@@ -88,6 +88,9 @@ Findmap AI로 **검색 결과를 사용자 취향에 맞게 정렬**하여 검�
 
 ![image](https://user-images.githubusercontent.com/72781752/162579966-c639d65c-2b6c-471c-bb93-f1d07171e842.png)
 
+![image](https://user-images.githubusercontent.com/72781752/162580100-2d2ee3b0-571b-47b1-a1d7-260ac6253889.png)
+
+
 
 [API docs](https://lab.hanium.or.kr/21_HF144/21_hf144/wikis/home)
 
