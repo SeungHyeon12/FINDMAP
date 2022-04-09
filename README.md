@@ -106,5 +106,8 @@ Findmap AI로 **검색 결과를 사용자 취향에 맞게 정렬**하여 검�
 
 [KoBERT](https://github.com/SKTBrain/KoBERT)
 
+## Read Here for detail of Project
+https://www.hanium.or.kr/portal/project/awardView.do
+
 
 
