@@ -1,5 +1,6 @@
 # Findmap: 웹서핑의 지도
 
+## project 수행기간 2021 05-10 ~ 2021 10-10
 <div align="center">
 <p align="center">
     <img src="assets/logo.png" alt="logo" width="250" height="250"/>
