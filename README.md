@@ -110,5 +110,7 @@ Findmap AI로 **검색 결과를 사용자 취향에 맞게 정렬**하여 검�
 ## Read Here for detail of Project
 https://youtu.be/P1gPMj9kTmo
 
+![image](https://user-images.githubusercontent.com/72781752/162584262-70df254f-e00a-4e9d-843e-29f1dfb8dd38.png)
+
 
 
