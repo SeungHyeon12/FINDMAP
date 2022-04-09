@@ -86,7 +86,8 @@ Findmap AI로 **검색 결과를 사용자 취향에 맞게 정렬**하여 검�
 
 ## Architecture
 
-업로드 예정
+![image](https://user-images.githubusercontent.com/72781752/162579966-c639d65c-2b6c-471c-bb93-f1d07171e842.png)
+
 
 [API docs](https://lab.hanium.or.kr/21_HF144/21_hf144/wikis/home)
 
